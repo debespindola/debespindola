@@ -2,7 +2,7 @@
 
 ## These are few things about me:
 <ul> 
-  <li> I work as a developer at <a href="https://citi.org.br" target="_blank">@CITi </a> <img width="40" align="center" src="https://media0.giphy.com/media/ihZH2vOfn02gs9i1U9/source.gif"/> </li>
+  <li> I work as a developer and tech leader at <a href="https://citi.org.br" target="_blank">@CITi </a> <img width="40" align="center" src="https://media0.giphy.com/media/ihZH2vOfn02gs9i1U9/source.gif"/> </li>
   <li> I curently work with React.js, Node.js, TypeScript and React Native <img width="30" align="center" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif"/> </li>
   <li> My goal is to make people's life at least a little better through their experience in technology <img width="45" align="center" src="https://thumbs.gfycat.com/ElaborateLankyAntelopegroundsquirrel-small.gif" /></li>
 </ul>
