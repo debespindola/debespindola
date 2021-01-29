@@ -2,7 +2,7 @@
 
 
 - ### About me:
-Developer and Tech Leader at [CITi](https://citi.org.br/) 🚀
+#### Developer and Tech Leader at [CITi](https://citi.org.br/) 🚀
 
 - ### 💻 Programming languages:
 
