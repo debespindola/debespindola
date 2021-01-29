@@ -13,7 +13,7 @@
 
 - ### ✨ Github stats:
 
-    [![Deborah's GitHub stats](https://github-readme-stats.vercel.app/api?username=debespindola)](https://github.com/debespindola/github-readme-stats)
+    [![Deborah's GitHub stats](https://github-readme-stats.vercel.app/api?username=debespindola)](https://github.com/debespindola)
 
 
 - ### 📢 Contact: 
