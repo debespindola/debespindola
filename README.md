@@ -9,8 +9,6 @@
     [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
     [![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
     [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-    
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debespindola&show_icons=true&locale=en&layout=compact" alt="informacoes" /></p>
 
 
 - ### ✨ Github stats:
