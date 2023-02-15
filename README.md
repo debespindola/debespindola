@@ -1,6 +1,6 @@
 ## Hello, I'm Deborah! <img width="60" align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b310f0d7-c097-476c-a7ac-79ec2b4e56ed/d8zflh6-4b1f7d25-0215-4042-89cc-5b6077e5d776.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvYjMxMGYwZDctYzA5Ny00NzZjLWE3YWMtNzllYzJiNGU1NmVkXC9kOHpmbGg2LTRiMWY3ZDI1LTAyMTUtNDA0Mi04OWNjLTViNjA3N2U1ZDc3Ni5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.Wa0QK_x6e1mqPvQPGFDAdZPpCV2I_vAgtEORY4GN7vE"/> 
 
-### 🚀 Front-end developer at [Inclusio](https://inclusio.io/) • 🎓 Undergraduate Information Systems student at [CIn - UFPE](https://portal.cin.ufpe.br/).
+### 🚀 Front-end developer • 🎓 Undergraduate Information Systems student at [CIn - UFPE](https://portal.cin.ufpe.br/).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debespindola&layout=compact&theme=radical)](https://github.com/debespindola/github-readme-stats)
     
