@@ -1,8 +1,7 @@
 ## Hello, I'm Deborah!
 
 👩🏻‍💻 Front-end Software Engineer at [Oowlish](https://www.oowlish.com/).
-
-🎓 Undergraduate student in Information Systems at [CIn-UFPE](https://portal.cin.ufpe.br/) (8/8).
+🎓 BSc in Information Systems [CIn-UFPE](https://portal.cin.ufpe.br/).
 
 ✨ I find my greatest fulfillment in using technology to simplify people's lives. 
 
